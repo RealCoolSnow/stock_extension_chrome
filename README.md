@@ -1,0 +1,1 @@
+# stock_extension_chrome
